@@ -1,2 +1,1 @@
-# Stackathon
-A simple Three.js and Cannon.js demo
+a simple Three.js and Cannon.js demo
